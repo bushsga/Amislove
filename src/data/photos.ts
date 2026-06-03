@@ -5,7 +5,7 @@ export const queenPhotos: { src: string; alt: string }[] = [
   { src: "https://res.cloudinary.com/dx7tbzgte/image/upload/v1780362671/photo-4_n5tk0o.png", alt: "Aminat" },
   { src: "https://res.cloudinary.com/dx7tbzgte/image/upload/v1780362703/photo-5_l6tffl.png", alt: "Aminat" },
   { src: "https://res.cloudinary.com/dx7tbzgte/image/upload/v1780362634/photo-6_fdojdm.png", alt: "Aminat" },
-  { src: "https://res.cloudinary.com/dx7tbzgte/image/upload/v1780360846/photo-7_mcw4ki.png", alt: "Aminat" },
+  
   { src: "https://res.cloudinary.com/dx7tbzgte/image/upload/v1780362577/photo-8_cbuobk.png", alt: "Aminat" },
   { src: "https://res.cloudinary.com/dx7tbzgte/image/upload/v1780362672/photo-9_jn29k2.png", alt: "Aminat" },
   { src: "https://res.cloudinary.com/dx7tbzgte/image/upload/v1780360810/photo-18_xau6be.jpg", alt: "Aminat" },
